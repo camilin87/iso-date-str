@@ -1,0 +1,21 @@
+{
+  "name": "iso-date-str",
+  "version": "1.0.0",
+  "description": "gets the current datetime as an ISO string",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilin87/iso-date-str.git"
+  },
+  "keywords": [
+    "date",
+    "iso",
+    "str"
+  ],
+  "author": "@camilin87",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilin87/iso-date-str/issues"
+  },
+  "homepage": "https://github.com/camilin87/iso-date-str#readme"
+}
